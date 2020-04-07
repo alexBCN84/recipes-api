@@ -1,0 +1,30 @@
+{
+  "name": "recipes-api",
+  "version": "1.0.0",
+  "description": "A very simple API to store and use recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexBCN84/recipes-api.git"
+  },
+  "keywords": [
+    "recipes",
+    "cooking"
+  ],
+  "author": "Alejandro Gines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexBCN84/recipes-api/issues"
+  },
+  "homepage": "https://github.com/alexBCN84/recipes-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

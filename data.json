@@ -1,0 +1,58 @@
+{
+    "recipes": [
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 1
+        },
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 2
+        },
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 3
+        },
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 4
+        },
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 5
+        },
+        {
+            "name": "cesar salad",
+            "category": "salads",
+            "ingredients": ["lettuce, parmesan, eggs, olive oil, anxoives"],
+            "time": "30 min",
+            "steps": ["wash the lettuce", "cut the lettuce", "grate parmesan cheese", "prepare sauce with anxoives, eggs and olive oil", "mix everything together"],
+            "difficulty": "easy",
+            "id": 6
+        }
+    ]
+}
